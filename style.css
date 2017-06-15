@@ -1,0 +1,10 @@
+div {
+	border: 4px dashed #444;
+	width: 450px;
+	padding-left: 5px;
+	line-height: 40px;
+	padding-bottom: 5px;
+}
+sup,sub {
+	font-style: italic;
+}
